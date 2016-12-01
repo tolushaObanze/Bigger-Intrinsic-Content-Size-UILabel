@@ -1,4 +1,5 @@
 # Bigger-Intrinsic-Content-Size-UILabel
+## Syntax: Swift 3
 This is my UILabel subclass with overrided `intrinsicContentSize` method and with corner radius in `layoutSubviews` to accomplish badge effect easily!
 
 **Just set it up as class for UILabel in Storyboard or init it code**
