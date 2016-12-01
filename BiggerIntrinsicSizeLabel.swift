@@ -1,6 +1,5 @@
 //
-//  BiggerWidthLabel.swift
-//  CraftBeer
+//  BiggerIntrinsicSizeLabel.swift
 //
 //  Created by Anatoly Esaulov on 30.11.16.
 //  Copyright © 2016 Obanze Dev. All rights reserved.
@@ -8,7 +7,7 @@
 
 import UIKit
 
-class BiggerWidthLabel: UILabel {
+class BiggerIntrinsicSizeLabel: UILabel {
 
     @IBInspectable var additionalHeight : CGFloat = 4 {
         didSet {
