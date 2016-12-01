@@ -8,3 +8,5 @@ Has two additional `@IBInspectable` properties: `additionalWidth` & `additionalH
 Also in overrided `layoutSubviews` layer's `cornerRadius` set to **half height**
 
 Enjoy!
+
+**TODO: Maybe override bounds also**
